@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(168,93,48);        
+    width: auto;
+    height: auto;
+    
+    
+    }
+    div {
+        background-color: rgb(255, 255, 255);
+        border: 1px solid black;
+    }
+    
+    #a{
+        color: rgb(101, 191, 17); 
+    }
+         
+    
+    .cafeGarritas{
+        font-family: 'Patrick Hand';
+    }
+    
+    h1{
+        text-align: center;
+    }
+    h2{
+        text-align: center;
+    }
+    p{
+        margin: 10%;
+        text-decoration: wavy;
+        color: rgb(117, 17, 34);
+    }
+    .anav{
+        box-sizing: border-box;
+        color:rgb(13, 143, 100);
+        text-decoration: none;
+        font-size: 30px;
+        border-radius: 20%;
+        margin: 5px;
+        display: inline-block;
+        border: 2px solid rgb(113, 61, 29);
+        border-bottom-left-radius: 0px; 
+        border-bottom-right-radius: 0px; 
+        }
